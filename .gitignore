@@ -32,6 +32,7 @@ wp-config.php
 # Log files
 *.log
 
+/wcstaging/wp-content/themes/astra/auth.json
 /wp-content/themes/astra/auth.json
 # htaccess
 /.htaccess

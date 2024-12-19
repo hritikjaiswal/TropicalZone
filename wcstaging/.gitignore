@@ -32,6 +32,8 @@ wp-config.php
 # Log files
 *.log
 
+/wp-content/themes/astra/auth.json
+
 # htaccess
 /.htaccess
 
